@@ -4,7 +4,7 @@
 
 ## let me try
 
-打开`index.html`，分别在左侧和右侧输入框输入`44`(取决于计算机性能)，点击计算，等待结果，查看页面是否有卡顿。
+打开`index.html`([在线](https://clumsyme.github.io/webworker/index.html))，分别在左侧和右侧输入框输入`44`(取决于计算机性能)，点击计算，等待结果，查看页面是否有卡顿。
 
 ## that's it
 
